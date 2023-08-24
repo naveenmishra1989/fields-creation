@@ -1,0 +1,1 @@
+Account__c,	Competitor_Product_Name__c,	Competitor__c,CreatedById,CreatedDate,Id,IsDeleted,LastModifiedById,LastModifiedDate,Name,SystemModstamp
